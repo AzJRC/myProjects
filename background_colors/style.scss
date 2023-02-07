@@ -1,0 +1,20 @@
+*, ::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+:root {
+    box-sizing: border-box;
+    margin: inherit;
+    padding: inherit;
+}
+
+.container {
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
