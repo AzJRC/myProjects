@@ -15,7 +15,7 @@ I learned several this while doing this webpage. Of course, I got very basic kno
         - ```onchange()```
 - **JavaScript learnings**
     1. Create variables to select HTML elements.
-    2. Understanding of the document object and the HTML elements to apply the ``.style``` property object.
+    2. Understanding of the document object and the HTML elements to apply the ```.style``` property object.
 - **Bootstrap framework learnings**
     1. First approach using a framework to avoid doing repetitive and trivial code.
         - In this case, I used to create the button.
