@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/primeAlgorithm",
-      "program": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/primeAlgorithm/build/Debug/outDebug",
+      "cwd": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/credit",
+      "program": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/credit/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
