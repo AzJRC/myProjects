@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,9 +9,9 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/credit",
-      "program": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/credit/build/Debug/outDebug",
+      "cwd": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/s${cwd}",
       "MIMode": "gdb",
+      "program": "c:/Users/Alejandro Javier/OneDrive/Documentos/GitHub/projects/scra${cwd}",
       "miDebuggerPath": "gdb",
       "setupCommands": [
         {
